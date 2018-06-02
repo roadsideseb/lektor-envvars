@@ -64,7 +64,7 @@ jobs:
             . venv/bin/activate
             py.test
             flake8 .
-            black --check .
+            black --check *.py
 
       - store_artifacts:
           path: test-reports
