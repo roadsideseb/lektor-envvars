@@ -1,0 +1,16 @@
+*.sw[a-z]
+*.py[cox]
+*.sqlite
+
+Pipfile
+
+.env*
+.coverage
+.pytest_cache
+.vscode/
+
+.cache/
+.tox/
+*.egg-info/
+
+htmlcov/
