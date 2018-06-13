@@ -11,7 +11,7 @@ dev_requires = requires + tests_requires + lint_requires
 
 setup(
     name="lektor-envvars",
-    version="16.6.4.1",
+    version="18.6.12.1",
     description="A Lektor plugin making environment variables available in templates.",
     long_description="\n\n".join([open("README.rst").read()]),
     license="MIT",
