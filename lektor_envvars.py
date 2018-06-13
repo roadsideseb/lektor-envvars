@@ -25,8 +25,8 @@ class LektorEnv:
                 return self.env(name)
 
 
-class EnvvarPlugin(Plugin):
-    name = "Env Variable"
+class EnvvarsPlugin(Plugin):
+    name = "Environment Variables"
     description = "A plugin making environment variables available in templates."
 
     def on_setup_env(self, **extra):
