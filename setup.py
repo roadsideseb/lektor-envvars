@@ -20,7 +20,7 @@ setup(
     url="https://www.github.com/elbaschid/lektor-envvars",
     packages=find_packages(),
     install_requires=requires,
-    entry_points={"lektor.plugins": ["lektor-envvars = lektor_envvars:EnvvarsPlugin"]},
+    entry_points={"lektor.plugins": ["envvars = lektor_envvars:EnvvarsPlugin"]},
     classifiers=[
         "License :: OSI Approved :: MIT License",
         "Programming Language :: Python",
