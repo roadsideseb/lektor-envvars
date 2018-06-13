@@ -12,5 +12,6 @@ Pipfile
 .cache/
 .tox/
 *.egg-info/
+dist/
 
 htmlcov/
