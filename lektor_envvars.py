@@ -1,7 +1,7 @@
 from environs import Env
 from lektor.pluginsystem import Plugin
 
-__version__ = "18.6.12.1"
+__version__ = "18.6.12.2"
 
 DEFAULT_PREFIX = "LEKTOR_"
 
