@@ -3,7 +3,7 @@ from setuptools import setup
 
 setup(
     name="lektor-envvars",
-    version="18.6.12.2",
+    version="18.6.12.3",
     description="A Lektor plugin making environment variables available in templates.",
     long_description="\n\n".join([open("README.rst").read()]),
     license="MIT",
