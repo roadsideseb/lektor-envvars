@@ -1,0 +1,7 @@
+-e .
+
+pytest
+pytest-cache
+pytest-cov
+flake8
+black
